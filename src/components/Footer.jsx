@@ -4,7 +4,7 @@ import { MdEmail } from "react-icons/md";
 
 function Footer() {
   return (
-    <footer className="bg-[#2D2A26] text-white py-20">
+    <footer className="bg-[#2D2A26] text-white py-16">
 
       <div className="max-w-7xl mx-auto px-8">
 
@@ -13,17 +13,8 @@ function Footer() {
           <img
             src={logo}
             alt="Linéa"
-            className="w-36 mb-8"
+            className="w-32 mb-12"
           />
-
-          <h2 className="text-4xl mb-4">
-            Linéa
-          </h2>
-
-          <p className="text-gray-400 text-center mb-10">
-            Clean Lines.<br />
-            Warm Spaces.
-          </p>
 
           <div className="flex gap-10 text-4xl mb-12">
 
