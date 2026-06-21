@@ -1,7 +1,7 @@
 import livingroom from "../assets/images/projects/livingroom.jpg";
 import kitchen from "../assets/images/projects/kitchen.jpg";
 import office from "../assets/images/projects/office.jpg";
-import architecture from "../assets/images/projects/architecture.png";
+import architecture from "../assets/images/projects/architecture.webp";
 
 function Projects() {
   return (
